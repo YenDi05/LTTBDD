@@ -1,16 +1,4 @@
-# bt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 1.
+Mong muốn của em sau khi học xong môn học là có thể hiểu hơn về lập trình ứng dụng, xây dựng ứng dụng hoàn chỉnh, ứng dụng kiến thức vào thực tế. Và định hướng nghề nghiệp là full stack developer, em có thể ứng dụng công nghệ di động vào web tận dụng kiến thức mobile như UI/UX trên mobile, thao tác với API, lưu trữ dữ liệu để áp dụng lập trình web.
+# 2.
+Theo em, trong tương lai gần lập trình di động vẫn sẽ phát triển mạnh mẽ. Vì thiết bị di động ngày càng phổ biến, sự phát triển mạnh mẽ của AI, sự tăng trưởng của thị trường game di động, và con người ngày càng phụ thuộc vào điện thoại thông minh.2.Theo em, trong tương lai gần lập trình di động vẫn sẽ phát triển mạnh mẽ. Vì thiết bị di động ngày càng phổ biến, sự phát triển mạnh mẽ của AI, sự tăng trưởng của thị trường game di động, và con người ngày càng phụ thuộc vào điện thoại thông minh.
