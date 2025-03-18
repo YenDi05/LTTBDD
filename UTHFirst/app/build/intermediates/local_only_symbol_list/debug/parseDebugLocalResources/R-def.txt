@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable anh
+drawable bachamcuoi
+drawable bachamdau
+drawable bachamgiua
+drawable back_icon
+drawable cuoi
+drawable frame
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_uth
+font righteous_regular
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.UTHFirst
+xml backup_rules
+xml data_extraction_rules
